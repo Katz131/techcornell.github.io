@@ -1,0 +1,181 @@
+body {
+  color: black;
+  background: url("https://images.unsplash.com/photo-1432057322224-8916b9ed202a?ixlib=rb-0.3.5&q=80&fm=jpg&s=295e6155b49be516a7c49d745995ca10") no-repeat 100% 100% fixed;
+  /* border: 2px solid black;*/
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color:#333333;
+  background-size: cover;
+  background-size: cover;
+  background-size: cover;
+  webkit-background-size: cover;
+  width: 75%;
+  height: 75%;
+  float:top;
+  position:relative;
+  right: -5%;
+}
+
+.nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 20px 0;
+  width: 100%;
+  background: transparent;
+}
+
+.nav ul {
+  font-family: sans-serif;
+  height: 40px;
+  margin: 0 auto;
+  list-style: none;
+  padding: 0 0px;
+}
+
+.nav ul li {
+  float:left;
+  height: 30px;
+  width: 15%;
+  line-height: 80px;
+  list-style: none;
+  padding: 0 20px;
+}
+
+#link{
+  background-color: white;
+  border:2px solid black;
+    text-align:center;
+    position:relative;
+}
+#link:hover{
+  background-color:#ffffe5;
+   border:2px solid black;
+}
+#to {
+  	background-color: white;
+    border:2px solid black;
+    text-align:center;
+    
+}
+#to:hover {
+  	background-color: #bcd2ee;
+    border:2px solid black;
+    position:relative;
+}
+
+#another {
+  	background-color: white;
+    border:2px solid black;
+    text-align:center;
+      position:relative;
+}
+#another:hover {
+  	background-color: #ffffe5;
+    border:2px solid black;
+    position:relative;
+  }
+
+#page{
+  	background-color: white;
+   	border:2px solid black;
+    text-align:center;
+     position:relative;
+}
+#page:hover {
+  background-color: #bcd2ee;
+   border:2px solid black;
+  }
+
+  li p {
+  	position:relative;
+  	bottom:40px;
+  	left:-5px;
+  }
+
+  span div{
+  height: 80;
+  width: 36pt;
+  border-color: #6495ed;
+  background-color: #bcd2ee;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 5px;
+  margin: auto;
+  text-align: center;
+  margin: 0 0 10px 10px;
+  position: absolute;
+  border-top: 5%;
+  clear: top;
+  display: inline;
+  text-align: bottom;
+  border-radius: 2%;
+  opacity:.6;
+  border-right-color:white;
+
+}
+#res2{
+  height: 68px;
+  width: 36pt;
+  border-color: #6495ed;
+  background-color: #ffffe5;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 5px;
+  margin: auto;
+  text-align: center;
+  float: right;
+  margin: 0 0 10px 10px;
+  position:absolute;
+  right:86%;
+  border-top: 5%;
+  clear: top;
+  display: inline;
+  text-align: bottom;
+  border-radius: 2%;
+  opacity:.6;
+  z-index:-1;
+  border-left-color: white;
+  position:absolute;
+
+}
+
+#main{
+  height: 500px;
+  width: 300pt;
+  border-color: #6495ed;
+  background-color: #bcd2ee;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 5px;
+  margin: auto;
+  text-align: center;
+  float: right;
+  margin: 0 0 10px 10px;
+  position:relative;
+  right:20%;
+  top: 90px;
+  border-top: 5%;
+  clear: top;
+  display: inline;
+  text-align: bottom;
+  border-radius: 2%;
+  opacity:.6;
+  z-index:2;
+  border-left-color:white;
+  border-bottom-color:white;
+}
+
+#skis {
+	position:absolute;
+	top:120pt;
+	height:400pt;
+	right:295pt;
+}
+
+#cornellbullet {
+	height: 30pt;
+	width:30pt;
+}
